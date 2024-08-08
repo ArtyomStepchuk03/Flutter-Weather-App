@@ -1,4 +1,4 @@
-import 'package:weather_app/feature/forecast/models/forecast_dto.dart';
+part of 'forecast_cubit.dart';
 
 /// Состояние страницы с прогнозом погоды.
 abstract class ForecastState {}

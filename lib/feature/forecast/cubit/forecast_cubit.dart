@@ -3,7 +3,7 @@ import 'package:get_it/get_it.dart';
 import 'package:weather_app/feature/forecast/models/forecast_dto.dart';
 import 'package:weather_app/repository/forecast/forecast_repository.dart';
 
-import 'forecast_state.dart';
+part 'forecast_state.dart';
 
 /// Кубит для страницы с прогнозом погоды.
 class ForecastCubit extends Cubit<ForecastState> {

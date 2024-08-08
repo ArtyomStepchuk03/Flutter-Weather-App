@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:weather_app/feature/forecast/cubit/forecast_cubit.dart';
-import 'package:weather_app/feature/forecast/cubit/forecast_state.dart';
 import 'package:weather_app/feature/forecast/models/current_forecast_dto.dart';
 import 'package:weather_app/feature/forecast/models/forecast_units_dto.dart';
 import 'package:weather_app/feature/forecast/models/hourly_forecast_dto.dart';
